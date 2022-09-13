@@ -1,0 +1,33 @@
+* {
+    margin-left: 5px;
+    font-family: Arial, sans-serif;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+.header-img {
+    background-color: salmon; 
+}
+
+.ingredients {
+    background-color: lightcyan;
+    padding: 5px;
+    
+} 
+
+.directions {
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.page-info {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}

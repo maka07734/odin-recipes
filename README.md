@@ -19,8 +19,11 @@ Notes:
   -set photo credits <figcaption> font size to 12px
   -set font-family to Arial with sans-serif as a backup
   -created div and set page-info to a dark blue background, white text color, text-align center
+  -set box-sizing to border-box
+  -set <li> element padding to 5px to improve UX/readability
 -idex.html:
   -changed background color of header image to salmon (img is .png) to make it POP
 -recipe pages:
   -created div and set background color of ingredients to lightcyan; set padding to 5px
   -created div and set background color of directions lightgoldenyellow; set padding to 5px
+ 
